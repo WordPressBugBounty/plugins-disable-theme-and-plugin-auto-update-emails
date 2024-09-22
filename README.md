@@ -1,0 +1,1 @@
+# plugins-disable-theme-and-plugin-auto-update-emails
